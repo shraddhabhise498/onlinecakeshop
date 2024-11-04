@@ -1,1 +1,3 @@
 # onlinecakeshop
+The cake shop management system is a computerized solution for managing inventory ,orders ,payments and cancellations efficiently.it replace the manual,time-consuming process,reducing errors and improving data accuracy.The  system allows easy storage,updating and retrieval of information though user-friendly modules. This software helps the admin handle customer and product details.
+The Online cake shop management System automates sales activities,reducing manual work and improving efficiency.the system is user-friendly ,and admins can manage cake details and user access.reports are generated end of each day to calculate payment.
